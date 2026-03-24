@@ -1,4 +1,4 @@
-# SFTEEG-Tool: A Spatial-Frequency-Temporal EEG Analysis Tool for Motor Imagery Brain-Computer Interfaces v1.0
+# STFEEG–Tool: A Spatial–Temporal–Frequency EEG Analysis Tool for Motor Imagery Brain–Computer Interfaces v1.0
 This work develops a Spatial-Frequency-Temporal EEG Analysis Tool (SFTEEG-Tool), **a MATLAB-based user-friendly toolbox designed for accurate, flexible, and interpretable EEG decoding in MI paradigms**. It enables configurable temporal, frequency, and spatial segmentation, integrates CSP and div-CSP feature extraction methods, and supports multiple linear classifiers including SVM, ridge regression, and lasso regression. 
 
 
@@ -63,7 +63,7 @@ This folder contains:
 
 You can open App_v1.mlapp directly in MATLAB App Designer for further development, parameter tuning, or function extension.
 
-+ **For detailed information about the interface, please refer to the paper “SFTEEG-Tool: A Spatial-Frequency-Temporal EEG Analysis Tool for Motor Imagery Brain-Computer Interfaces.”**
++ **For detailed information about the interface, please refer to the paper “STFEEG–Tool: A Spatial–Temporal–Frequency EEG Analysis Tool for Motor Imagery Brain–Computer Interfaces.”**
 
 + **For detailed information about the decoding algorithms, please refer to the paper “Fine-Grained Spatial–Frequency–Time Framework for Motor Imagery Brain–Computer Interface.”**
 
